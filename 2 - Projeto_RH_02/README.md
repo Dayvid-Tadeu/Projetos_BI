@@ -4,5 +4,4 @@ Demonstração com dados ficticíos de Relatório sobre Pesquisa de Satisfação
 
 
 ## Preview
-
-! .[Dashboard Logistica]_()
+![Projeto RH](https://github.com/Dayvid-Tadeu/Projetos_BI/blob/master/2%20-%20Projeto_RH_02/Rh.JPG)
